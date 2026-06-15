@@ -1,7 +1,7 @@
 # 사이트 기본 설정
-title: Smiles Life - 호기심 해결
+title: 호기심 해결
 description: Smiles Life의 흥미로운 호기심 해결 이야기
-url: "https://smileslife.co.kr"
+url: "https://curiosity.smileslife.co.kr"
 
 # 테마 설정 (여기서 디자인이 결정됩니다)
 theme: minima
