@@ -54,11 +54,11 @@ header_pages:
 # [추가된 부분] 언어별 사이트 타이틀 및 설명 설정
 # ----------------------------------------------------------------
 titles:
-  ko: "Smiles Life - 호기심 해결"
-  en: "Smiles Life - Curiosity Solved"
-  ja: "Smiles Life - 好奇心解決"
-  zh-TW: "Smiles Life - 滿足好奇心"
-  es: "Smiles Life - Curiosidades Resueltas"
+  ko: "호기심 해결"
+  en: "Curiosity Solved"
+  ja: "好奇心解決"
+  zh-TW: "滿足好奇心"
+  es: "Curiosidades Resueltas"
 
 descriptions:
   ko: "Smiles Life의 흥미로운 호기심 해결 이야기"
