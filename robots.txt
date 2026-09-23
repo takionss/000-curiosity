@@ -1,4 +1,10 @@
 User-agent: *
 Allow: /
+Disallow: /assets/
+Disallow: /search/
+Disallow: /tag/
+Disallow: /category/
+Disallow: /404.html
 
-Sitemap: http://curiosity.smileslife.co.kr/sitemap.xml
+Sitemap: https://curiosity.smileslife.co.kr/sitemap.xml
+Sitemap: https://curiosity.smileslife.co.kr/rss.xml
